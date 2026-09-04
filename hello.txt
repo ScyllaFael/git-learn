@@ -1,2 +1,2 @@
 Hello Git!
-这是 master 的修改
+这是 main 的修改
